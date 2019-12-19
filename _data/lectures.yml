@@ -1,0 +1,215 @@
+- title: Intro. and System Security
+  merge: "yes"
+
+- title: "Course Overview"
+  index: 1
+  date: Jan 8
+  filename: lec01_overview
+  description: ""
+  readings:
+  - title: "How to Read a Paper"
+    ref: R1
+    url: "/reading/howtoread.pdf"
+  - title: "Project startup document"
+    ref: R2
+    url: "/reading/hpprojecthowto.pdf"
+
+- title: Control-flow Hijacking attacks
+  index: 2
+  date: Jan 10
+  #filename: Untitled
+  description: "Shellcode and Buffer overflow attacks"
+  readings:
+  - title: x86 Assembly Guide
+    ref: R3
+    url: "http://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
+    optional: "no"
+  - title: Smashing The Stack For Fun And Profit
+    ref: R4
+    url: "/reading/stack_smashing.pdf"
+    optional: "no"
+  - title: Beyond Stack Smashing
+    ref: R5
+    url: "/reading/pincus.pdf"
+    optional: "no"
+
+- title: Canaries and ASLR
+  index: 3
+  date: Jan 15
+  #filename: Untitled
+  description: ""
+  readings:
+  - title: "StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks"
+    url: "/reading/stackguard.pdf"
+    ref: R6
+  deadlines:
+  - title: Summarize [R5]
+
+- title: Return-oriented Programming
+  #filename: Untitled
+  index: 4
+  date: Jan 17
+  description: ""
+  readings:
+  - title: The Geometry of Innocent Flesh on the Bone
+    url: "/reading/rop.pdf"
+    ref: R7
+  deadlines:
+  - title: Summarize [R7]
+  - title: Ethics forms in class
+
+
+- title: OS security
+  #filename: Untitled
+  index: 5
+  date: Jan 22
+  description: "Principle of least privilege, and OS security, Set-UUID Attack"
+
+- title: OS security
+  #filename: Untitled
+  index: 6
+  date: Jan 24
+  description: "Shellshock attack"
+
+- title: Isolation and Sandboxing
+  #filename: Untitled
+  index: 7
+  date: Jan 29
+  description: ""
+  deadlines:
+  - title: A1 deadline @11:59pm
+
+- title: Finding Bugs!
+  #filename: Untitled
+  index: 8
+  date: Jan 31
+  description: "Fuzzing and static and dynamic analysis"
+  deadlines:
+  #- title: Quiz 1
+  - title: Team formation and initial project proposals, refer to [R2]
+
+- title: Network Security
+  merge: "yes"
+
+- title: Internet Overview
+  #filename: Untitled
+  index: 9
+  date: Feb 5
+  description: ""
+
+- title: TCP/IP attacks
+  #filename: Untitled
+  index: 10
+  date: Feb 7
+  description: "Packet Sniffing and Spoofing,TCP/IP Attacks"
+
+- title: DoS attacks
+  #filename: Untitled
+  index: 11
+  date: Feb 12
+  description: ""
+  deadlines:
+    - title: Project proposal deadline (check [R2])
+
+- title: DDoS attacks
+  #filename: Untitled
+  index: 12
+  date: Feb 14
+  description: ""
+
+- title: Reading Break
+  index: 10
+  date: (Feb 17 – 23)
+  merge: "yes"
+
+
+- title: Local DNS attacks
+  #filename: Untitled
+  index: 13
+  date: Feb 26
+  description: ""
+  deadlines:
+    - title: A2 deadline @11:59pm
+
+- title: Remote DNS attacks
+  #filename: Untitled
+  index: 14
+  date: Feb 28
+  description: ""
+
+
+- title: "Internet routing: BGP"
+  #filename: Untitled
+  index: 15
+  date: Mar 4
+  description: ""
+
+- title: BGP attacks
+  #filename: Untitled
+  index: 16
+  date: Mar 6
+  description: ""
+  #deadlines:
+  #  - title: Quiz 2
+
+- title: SDN overview
+  #filename: Untitled
+  index: 17
+  date: Mar 11
+  description: ""
+
+- title: SDN attacks
+  #filename: Untitled
+  index: 18
+  date: Mar 13
+  description: ""
+
+- title: Side-channel attacks
+  #filename: Untitled
+  index: 19
+  date: Mar 18
+  description: ""
+  deadlines:
+    - title: A3 deadline @11:59pm
+
+- title: Project pitch presentation
+  #filename: Untitled
+  index: 20
+  date: Mar 20
+  description: "We will use this lecture to pitch your projects."
+  deadlines:
+    - title: Project pitch presentation
+
+- title: Firewalls and IDS
+  #filename: Untitled
+  index: 21
+  date: Mar 25
+  description: ""
+
+- title: Virtual Private Networks
+  #filename: Untitled
+  index: 22
+  date: Mar 27
+  description: ""
+
+- title: Hardware Security
+  merge: "yes"
+
+- title: TBD
+  #filename: Untitled
+  index: 23
+  date: Apr 1
+  description: ""
+
+- title: TBD
+  #filename: Untitled
+  index: 24
+  date: Apr 3
+  description: ""
+  #deadlines:
+  #- title: Quiz 3
+
+- title: "<i>Project demo day!</i>"
+  date: Apr 8, 11AM – 3PM, TASC1 9204 (East)
+  merge: "yes"
+

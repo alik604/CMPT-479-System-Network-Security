@@ -1,0 +1,9 @@
+- title: "Assignment 1"
+  filename: Untitled
+  dirname: untitled-lecture
+  description: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+  readings:
+  - title: XXX1
+    url: "www.google.com"
+  - title: XXX2
+    url: "www.sfu.ca"
