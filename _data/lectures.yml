@@ -23,6 +23,7 @@
   - title: x86 Assembly Guide
     ref: R3
     url: "http://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
+    absolute: "yes"
     optional: "no"
   - title: Smashing The Stack For Fun And Profit
     ref: R4

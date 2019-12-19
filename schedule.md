@@ -59,7 +59,12 @@ This page contains link to the lectures I give throughout the semester.
 
 {% for reading in lecture.readings %}
     <div> 
-    {% if reading.ref %} <b>[{{ reading.ref }}]</b> {% endif %} <a href="{{ site.baseurl }}/{{ reading.url }}">{{ reading.title }}</a> {% if reading.optional == "yes" %} 
+    {% if reading.ref %} <b>[{{ reading.ref }}]</b> {% endif %} 
+    {% if reading.absolute == "yes" %} <a href="{{ reading.url }}">{{ reading.title }}</a> 
+    {% else %}
+    <a href="{{ site.baseurl }}/{{ reading.url }}">{{ reading.title }}</a>
+    {% endif %} 
+    {% if reading.optional == "yes" %} 
     <i> (Optional) </i> {% endif %} 
     </div>
 {% endfor %}
