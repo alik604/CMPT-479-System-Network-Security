@@ -66,7 +66,7 @@ The letter grade is calculated based on the final score as follows:
 You need to get passing grades in the final project <span class="alert">and</span> the assignments to pass this course.
 For example, if you do not pass the project but pass the assignments, you will not pass the course.
 <br/><br/>
-For more details, check <a href="/project">project</a> and <a href="/assignments">assignment</a> pages.
+For more details, check <a href="{{site.baseurl}}/project">project</a> and <a href="{{site.baseurl}}/assignments">assignment</a> pages.
 
 
 <h3>
@@ -77,10 +77,10 @@ You are required to read all non-optional materials <span class="alert">before</
 In addition, you will be asked throughout the semester to <span class="alert">summarize six papers</span> out of all the materials you will read.
 <ul>
 <li>This is an individual activity.</li>
-<li>These papers will be mentioned in the "Events" column in the <a href="/schedule">schedule</a> page at least three days before the deadline.</li>
+<li>These papers will be mentioned in the "Events" column in the <a href="{{site.baseurl}}/schedule">schedule</a> page at least three days before the deadline.</li>
 <li>You should deliver a hardcopy of your summary to the instructor no later than 9:40am in the lecture.</li>
 <li>The summary must be your own. Avoid any type of plagiarism or paraphrasing.</li>
-<li>Please use this Latex <a href="/reading/latexReportTemplate.zip">template</a>.</li> 
+<li>Please use this Latex <a href="{{site.baseurl}}/reading/latexReportTemplate.zip">template</a>.</li> 
 <li>The summary should be up to two pages. Longer documents will not be graded</li>
 <li>Late delivery will not be graded.</li>
 </ul>

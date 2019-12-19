@@ -44,7 +44,7 @@ This page contains link to the lectures I give throughout the semester.
 <td class="archiveposturl">
     <span>
     {% if lecture.filename %}
-    <a href="{{ site.url }}/lectures/{{ lecture.filename }}.pdf">
+    <a href="{{ site.url }}/{{ site.baseurl }}/lectures/{{ lecture.filename }}.pdf">
     {{ lecture.title }}
     </a>
     {% else %}
@@ -59,7 +59,7 @@ This page contains link to the lectures I give throughout the semester.
 
 {% for reading in lecture.readings %}
     <div> 
-    {% if reading.ref %} <b>[{{ reading.ref }}]</b> {% endif %} <a href="{{ reading.url }}">{{ reading.title }}</a> {% if reading.optional == "yes" %} 
+    {% if reading.ref %} <b>[{{ reading.ref }}]</b> {% endif %} <a href="{{ site.baseurl }}/{{ reading.url }}">{{ reading.title }}</a> {% if reading.optional == "yes" %} 
     <i> (Optional) </i> {% endif %} 
     </div>
 {% endfor %}

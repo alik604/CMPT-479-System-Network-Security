@@ -15,8 +15,8 @@
         <entry file="file://$PROJECT_DIR$/syllabus.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="430">
-                <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+              <first_editor relative-caret-position="301">
+                <caret line="79" column="67" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="67" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,20 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="101" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+            <state relative-caret-position="270">
+              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#li#0;n#ul#2;n#div#0;n#!!top" expanded="true" />
@@ -57,23 +48,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schedule.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="nav.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schedule.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/schedule.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="621">
-                <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+              <first_editor relative-caret-position="729">
+                <caret line="61" column="92" selection-start-line="61" selection-start-column="92" selection-end-line="61" selection-end-column="92" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -107,8 +107,8 @@
       <file leaf-file-name="lectures.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/lectures.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="121" column="16" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="17" />
+            <state relative-caret-position="297">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -129,6 +129,7 @@
       <find>type</find>
       <find>deadline</find>
       <find>one wee</find>
+      <find>&lt;a</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,13 +150,13 @@
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/assignments.md" />
         <option value="$PROJECT_DIR$/project.md" />
-        <option value="$PROJECT_DIR$/_data/lectures.yml" />
-        <option value="$PROJECT_DIR$/syllabus.md" />
+        <option value="$PROJECT_DIR$/_sass/_fancy-image.scss" />
+        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
-        <option value="$PROJECT_DIR$/_sass/_fancy-image.scss" />
+        <option value="$PROJECT_DIR$/syllabus.md" />
+        <option value="$PROJECT_DIR$/_data/lectures.yml" />
         <option value="$PROJECT_DIR$/schedule.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -437,20 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/lectures.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="121" column="16" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="101" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/image.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -468,6 +455,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="7" selection-start-line="6" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syllabus.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="301">
+            <caret line="79" column="67" selection-start-line="79" selection-start-column="65" selection-end-line="79" selection-end-column="67" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -480,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        <state relative-caret-position="270">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="n#style#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#li#0;n#ul#2;n#div#0;n#!!top" expanded="true" />
@@ -489,33 +496,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/syllabus.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="430">
-            <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_includes/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/lectures.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="621">
-            <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+          <first_editor relative-caret-position="729">
+            <caret line="61" column="92" selection-start-line="61" selection-start-column="92" selection-end-line="61" selection-end-column="92" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
