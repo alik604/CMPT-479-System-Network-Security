@@ -5,7 +5,7 @@ description: |
              XXXX
              XXXX
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://netsys-security.github.io/sp20/index.html" # the base hostname & protocol for your site
+url: "https://netsys-security.github.io/sp20" # the base hostname & protocol for your site
 syllabus: "xxx"
 githubdir: "netsys-security/sp20"
 
