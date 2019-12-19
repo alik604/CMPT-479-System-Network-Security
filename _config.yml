@@ -4,7 +4,7 @@ subtitle: Systems and Network Security – Spring 2020
 description: |
              XXXX
              XXXX
-baseurl: "sp20" # the subpath of your site, e.g. /blog/
+baseurl: "/sp20/" # the subpath of your site, e.g. /blog/
 url: "https://netsys-security.github.io" # the base hostname & protocol for your site
 syllabus: "xxx"
 githubdir: "netsys-security/sp20"
