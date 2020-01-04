@@ -136,7 +136,7 @@ Students that do not show a good understanding of the materials will get a '0' g
 Communication
 </h2>
 
-<strong>Announcements and Discussion Board.</strong> We will use Piazza to make announcements as well as to discuss lectures and assignments.
+<strong>Announcements and Discussion Board.</strong> We will use <a href="https://piazza.com/class/k4zaj6ke4lm64r" target="_blank">Piazza</a> to make announcements as well as to discuss lectures and assignments.
 Online discussion is encouraged and it contributes to your participation grade.
 
 <strong>Course Staff.</strong> You can reach the instructor and TA by their email. 
