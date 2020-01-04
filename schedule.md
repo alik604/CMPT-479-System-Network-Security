@@ -14,15 +14,13 @@ This page contains link to the lectures I give throughout the semester.
 
 <table width="100%">
 <colgroup>
-<col width="2%" />
-<col width="28%" />
+<col width="25%" />
 <col width="25%" />
 <col width="30%" />
 <col width="20%" />
 </colgroup>
 <thead>
 <tr>
-<th></th>
 <th>Lecutre</th>
 <th>Description</th>
 <th>Reading</th>
@@ -38,9 +36,6 @@ This page contains link to the lectures I give throughout the semester.
 {{ lecture.title }} <br/> {{ lecture.date }}
 </td>
 {% else %}
-<td>
-{{ lecture.index }}
-</td>
 <td class="archiveposturl">
     <span>
     {% if lecture.filename %}

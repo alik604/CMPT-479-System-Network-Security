@@ -1,4 +1,4 @@
-- title: Intro. and System Security
+- title: Introduction
   merge: "yes"
 
 - title: "Course Overview"
@@ -14,17 +14,31 @@
     ref: R2
     url: "/reading/hpprojecthowto.pdf"
 
-- title: Control-flow Hijacking attacks
+- title: "Introduction to security"
   index: 2
   date: Jan 10
-  #filename: Untitled
-  description: "Shellcode and Buffer overflow attacks"
+  description: ""
+
+- title: System and Software Security
+  merge: "yes"
+
+- title: "Shellcode"
+  index: 3
+  date: Jan 15
+  description: ""
   readings:
   - title: x86 Assembly Guide
     ref: R3
     url: "http://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
     absolute: "yes"
     optional: "no"
+
+- title: Control-flow Hijacking attacks
+  index: 4
+  date: Jan 17
+  #filename: Untitled
+  description: "Shellcode and Buffer overflow attacks"
+  readings:
   - title: Smashing The Stack For Fun And Profit
     ref: R4
     url: "/reading/stack_smashing.pdf"
@@ -33,10 +47,12 @@
     ref: R5
     url: "/reading/pincus.pdf"
     optional: "no"
+  deadlines:
+  - title: Summarize [R5]
 
 - title: Canaries and ASLR
-  index: 3
-  date: Jan 15
+  index: 5
+  date: Jan 22
   #filename: Untitled
   description: ""
   readings:
@@ -44,12 +60,13 @@
     url: "/reading/stackguard.pdf"
     ref: R6
   deadlines:
-  - title: Summarize [R5]
+  - title: Sign online Ethics form
+
 
 - title: Return-oriented Programming
   #filename: Untitled
-  index: 4
-  date: Jan 17
+  index: 6
+  date: Jan 24
   description: ""
   readings:
   - title: The Geometry of Innocent Flesh on the Bone
@@ -57,37 +74,52 @@
     ref: R7
   deadlines:
   - title: Summarize [R7]
-  - title: Ethics forms in class
 
-
-- title: OS security
-  #filename: Untitled
-  index: 5
-  date: Jan 22
-  description: "Principle of least privilege, and OS security, Set-UUID Attack"
-
-- title: OS security
-  #filename: Untitled
-  index: 6
-  date: Jan 24
-  description: "Shellshock attack"
-
-- title: Isolation and Sandboxing
-  #filename: Untitled
+- title: Control Flow Integrity
   index: 7
   date: Jan 29
+  #filename: Untitled
   description: ""
-  deadlines:
-  - title: A1 deadline @11:59pm
 
-- title: Finding Bugs!
+#  readings:
+#  - title: ""
+#    url: ""
+#    ref: ""
+#  deadlines:
+#  - title: ""
+
+
+- title: OS security
   #filename: Untitled
   index: 8
   date: Jan 31
-  description: "Fuzzing and static and dynamic analysis"
+  description: "Principle of least privilege, beyond buffer overflows, Set-UUID attack, Shellshock attack"
   deadlines:
   #- title: Quiz 1
   - title: Team formation and initial project proposals, refer to [R2]
+
+
+#- title: OS security
+#  #filename: Untitled
+#  index: 9
+#  date: Jan 31
+#  description: "Shellshock attack"
+
+
+#- title: Isolation and Sandboxing
+#  #filename: Untitled
+#  index: 7
+#  date: Jan 29
+#  description: ""
+#  deadlines:
+#  - title: A1 deadline @11:59pm
+#
+#- title: Finding Bugs!
+#  #filename: Untitled
+#  index: 8
+#  date: Jan 31
+#  description: "Fuzzing and static and dynamic analysis"
+
 
 - title: Network Security
   merge: "yes"
@@ -97,6 +129,8 @@
   index: 9
   date: Feb 5
   description: ""
+  deadlines:
+  - title: A1 deadline @11:59pm
 
 - title: TCP/IP attacks
   #filename: Untitled
@@ -129,14 +163,15 @@
   index: 13
   date: Feb 26
   description: ""
-  deadlines:
-    - title: A2 deadline @11:59pm
+
 
 - title: Remote DNS attacks
   #filename: Untitled
   index: 14
   date: Feb 28
   description: ""
+  deadlines:
+    - title: A2 deadline @11:59pm
 
 
 - title: "Internet routing: BGP"
@@ -173,13 +208,13 @@
   deadlines:
     - title: A3 deadline @11:59pm
 
-- title: Project pitch presentation
+- title: Project milestone presentation
   #filename: Untitled
   index: 20
   date: Mar 20
-  description: "We will use this lecture to pitch your projects."
+  description: "You will have the chance to present your project milestone."
   deadlines:
-    - title: Project pitch presentation
+    - title: Project milestone presentation
 
 - title: Firewalls and IDS
   #filename: Untitled

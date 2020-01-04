@@ -8,6 +8,27 @@ permalink: /syllabus/
 <h2>
 Topics
 </h2>
+This course focuses on two main topics: <strong>system security</strong> and <strong>network security</strong>.
+
+In the first topic, we will cover the following sub-topics:
+<ul>
+<li>Shellcode</li>
+<li>Control-flow hijacking and defenses</li>
+<li>Return-oriented programming</li>
+<li>Control flow integrity</li>
+<li>OS security</li>
+<li>(Tentative) Sandboxing and Fuzzing</li> 
+</ul>
+
+We will cover various network security sub-topics as follows:
+<ul>
+<li>TCP/IP attacks</li>
+<li>DoS and DDoS attacks</li>
+<li>Internet naming security</li>
+<li>Internet routing security</li>
+<li>SDN attacks</li>
+<li>IDS and Firewalls</li> 
+</ul>
 
 <h2>
 Prerequisites
@@ -18,7 +39,7 @@ In addition to <i>CMPT 300</i>, I expect students to have the following skills:
  <li> understanding of computer architecture and operating systems (e.g., memory layout, execution semantics)</li>
  <li> good understanding of computer networks (e.g., layering concept, IP networks, Internet naming and routing)</li>
  <li> strong programming skills in C/C++ and Python </li>
- <li> be comfortable in writing Assembly code </li>
+ <li> being comfortable to write Assembly code </li>
  <li> ability to learn new languages, tools and frameworks </li>
  </ul>
 
@@ -123,7 +144,7 @@ The instructor will reply to your email within 24–48 hours.
 To get a timely response, don't postpone sending your email to the last minute (e.g., few hours before a deadline).
 
 <h2>
-Policies and Statements
+Policies
 </h2>
 
 <strong>Late Policy.</strong> Late submissions will not be graded.
@@ -144,6 +165,7 @@ Discussion of projects and assignments are encouraged.
 However, students are forbidden to copy anything (e.g., source code, text) off the Internet or other students 
 to complete a project, assignment, or paper summary.
 
-<strong>Ethics Statement.</strong> XXX
+<strong>Ethics Form.</strong> 
+To receive a non-zero grade in this course, you must sign the CMPT 479/980 ethics form by 11:59pm on January 22, 2020. 
+Late forms will not be accepted. The form is available here.
 
-<strong>Protection of Privacy Statement.</strong> XXX
