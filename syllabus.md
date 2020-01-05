@@ -59,9 +59,9 @@ Grading
 </h2>
 
 <ul>
-<li> Final Project (Group of 2-3): 35% </li>
+<li> Final Project (Group of 2–3): 35% </li>
 <li> Assignments (Individual): 30% (3 x 10%) </li>
-<li> Research Reading (Individual): 12% (6 x 2%) </li>
+<li> Research Reading (Individual): 12% </li>
 <li> Quizzes: 18% (3 x 6%) </li>
 <li> Participation: 5%  </li>
 </ul>
@@ -95,7 +95,7 @@ For more details, check <a href="{{site.baseurl}}/project">project</a> and <a hr
 </h3>
 You are required to read all non-optional materials <span class="alert">before</span> the lecture. 
 <br/>
-In addition, you will be asked throughout the semester to <span class="alert">summarize six papers</span> out of all the materials you will read.
+In addition, you will be asked throughout the semester to <span class="alert">summarize at least six papers</span> out of all the materials you will read.
 <ul>
 <li>This is an individual activity.</li>
 <li>These papers will be mentioned in the "Events" column in the <a href="{{site.baseurl}}/schedule">schedule</a> page at least three days before the deadline.</li>
@@ -108,11 +108,11 @@ In addition, you will be asked throughout the semester to <span class="alert">su
 
 Your summary should answer these questions (I am using Vyas Sekar's questions):
 <ul>
-<li>Did you like this paper? Why? 1-2 sentences.</li>
-<li>What problem is this paper solving? 2-3 sentences.</li>
-<li>What are the strengths of this paper? 3-4 sentences.</li>
-<li>What are the main weaknesses in the paper? Do you see any potential attacks? 3-4 sentences.</li>
-<li>What would you do differently? Are there assumptions you disagree with? Do you see ideas for future work or improving the solution proposed?	3-4 sentences</li> 
+<li>Did you like this paper? Why? 1–2 sentences.</li>
+<li>What problem is this paper solving? 2–3 sentences.</li>
+<li>What are the strengths of this paper? 3–4 sentences.</li>
+<li>What are the main weaknesses in the paper? Do you see any potential attacks? 3–4 sentences.</li>
+<li>What would you do differently? Are there assumptions you disagree with? Do you see ideas for future work or improving the solution proposed?	3–4 sentences</li> 
 </ul>
 
 <h3>

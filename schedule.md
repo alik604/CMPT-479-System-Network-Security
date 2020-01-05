@@ -14,15 +14,15 @@ This page contains link to the lectures I give throughout the semester.
 
 <table width="100%">
 <colgroup>
-<col width="25%" />
-<col width="25%" />
+<col width="10%" />
 <col width="30%" />
-<col width="20%" />
+<col width="30%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr>
+<th>Date</th>
 <th>Lecutre</th>
-<th>Description</th>
 <th>Reading</th>
 <th>Events</th>
 </tr>
@@ -32,26 +32,28 @@ This page contains link to the lectures I give throughout the semester.
 {% for lecture in site.data.lectures %}
 <tr>
 {% if lecture.merge == "yes" %}
-<td colspan="5" class="merged-cell">
+<td colspan="4" class="merged-cell">
 {{ lecture.title }} <br/> {{ lecture.date }}
 </td>
 {% else %}
-<td class="archiveposturl">
+
+
+<td class="lecdate">
+   {{ lecture.date }}
+</td>
+
+<td class="lecdate">
     <span>
+    {{ lecture.title }}
     {% if lecture.filename %}
     <a href="{{ site.url }}/{{ site.baseurl }}/lectures/{{ lecture.filename }}.pdf">
-    {{ lecture.title }}
+    [slides]
     </a>
-    {% else %}
-    {{ lecture.title }}
     {% endif %} 
     </span>
-    <br/>
-    <i> ( {{ lecture.date }} ) </i>
 </td>
-<td markdown="span">{{ lecture.description }}</td>
-<td>
 
+<td class="lecdate">
 {% for reading in lecture.readings %}
     <div> 
     {% if reading.ref %} <b>[{{ reading.ref }}]</b> {% endif %} 
@@ -63,14 +65,12 @@ This page contains link to the lectures I give throughout the semester.
     <i> (Optional) </i> {% endif %} 
     </div>
 {% endfor %}
-
 </td>
-<td>
 
+<td class="lecdate">
 {% for deadline in lecture.deadlines %}
     <div class="deadline"> {{ deadline.title }} </div>
 {% endfor %}
-
 </td>
 {% endif %}
 

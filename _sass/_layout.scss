@@ -285,10 +285,21 @@ ul#archive li.alt {
        display: block;
        padding-left: 1em;
        padding-top: 1em;
-       color: #333;
+       color: #000;
 }
 
 .archiveposturl:hover {
+
+}
+
+.lecdate {
+       padding-left: 1em;
+       padding-top: 1em;
+       padding-bottom: 0.5em;
+       color: #000;
+}
+
+.lecdate:hover {
 
 }
 

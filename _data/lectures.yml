@@ -4,7 +4,13 @@
 - title: "Course Overview"
   index: 1
   date: Jan 8
-  #filename: lec01_overview
+#  filename: lec01_overview
+  description: ""
+
+
+- title: "Introduction to security"
+  index: 2
+  date: Jan 10
   description: ""
   readings:
   - title: "How to Read a Paper"
@@ -13,11 +19,6 @@
   - title: "Project startup document"
     ref: R2
     url: "/reading/hpprojecthowto.pdf"
-
-- title: "Introduction to security"
-  index: 2
-  date: Jan 10
-  description: ""
 
 - title: System and Software Security
   merge: "yes"
