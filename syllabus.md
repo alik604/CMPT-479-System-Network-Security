@@ -147,7 +147,7 @@ To get a timely response, don't postpone sending your email to the last minute (
 Policies
 </h2>
 
-<strong>Late Policy.</strong> Late submissions will not be graded.
+<strong>Late Submission Policy.</strong> Late submissions will <strong>not</strong> be graded.
 <br/>
 This policy is observed for project, assignments and paper summaries unless 
 (1) there is an excused absence (e.g., illness with sick note, emergency) <span class="alert">and</span> 
@@ -165,7 +165,12 @@ Discussion of projects and assignments are encouraged.
 However, students are forbidden to copy anything (e.g., source code, text) off the Internet or other students 
 to complete a project, assignment, or paper summary.
 
-<strong>Ethics Form.</strong> 
-To receive a non-zero grade in this course, you must sign the CMPT 479/980 ethics form by 11:59pm on January 22, 2020. 
-Late forms will not be accepted. The form is available here.
+<strong>Ethics Policy and Code of Ethics.</strong>
+The goal of this course is to learn how to protect systems and build defensive mechanisms. 
+To achieve this goal, you will learn various techniques that may be used to attack many existing systems. 
+Attacks discussed in this class are illegal to execute.
+
+In order to receive a non-zero grade in this course, 
+you must sign the CMPT 479/980 ethics form <strong>by 11:59pm on January 22, 2020</strong>. 
+Late forms will not be accepted. The form is available <a href="https://forms.gle/XzRogNnLaZLf6GEm7" target="_blank">here</a>.
 
