@@ -50,6 +50,7 @@
     optional: "no"
   deadlines:
   - title: Summarize [R5]
+  - title: Sign online Ethics <a href="https://forms.gle/XzRogNnLaZLf6GEm7" target="_blank">form</a>
 
 - title: Canaries and ASLR
   index: 5
@@ -60,8 +61,8 @@
   - title: "StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks"
     url: "/reading/stackguard.pdf"
     ref: R6
-  deadlines:
-  - title: Sign online Ethics <a href="https://forms.gle/XzRogNnLaZLf6GEm7" target="_blank">form</a>
+  # deadlines:
+
 
 
 - title: Return-oriented Programming

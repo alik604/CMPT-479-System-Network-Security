@@ -171,6 +171,6 @@ To achieve this goal, you will learn various techniques that may be used to atta
 Attacks discussed in this class are illegal to execute.
 
 In order to receive a non-zero grade in this course, 
-you must sign the CMPT 479/980 ethics form <strong>by 11:59pm on January 22, 2020</strong>. 
+you must sign the CMPT 479/980 ethics form <strong>by 11:59pm on January 17, 2020</strong>. 
 Late forms will not be accepted. The form is available <a href="https://forms.gle/XzRogNnLaZLf6GEm7" target="_blank">here</a>.
 
