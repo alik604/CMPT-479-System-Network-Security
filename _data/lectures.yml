@@ -27,6 +27,7 @@
 - title: "Shellcode"
   index: 3
   date: Jan 15
+  filename: lec03_shellcode
   description: ""
   readings:
   - title: x86 Assembly Guide
