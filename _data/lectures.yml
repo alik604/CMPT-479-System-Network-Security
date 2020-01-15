@@ -24,24 +24,27 @@
 - title: System and Software Security
   merge: "yes"
 
-- title: "Shellcode"
+- title: "<i class='far fa-2x fa-snowflake'></i> Cancelled due to the weather "
   index: 3
   date: Jan 15
-  filename: lec03_shellcode
   description: ""
+  readings:
+
+
+- slides:
+  - title: "Shellcode"
+    filename: lec03_shellcode
+  - title: Control-flow Hijacking attacks
+    #filename: ""
+  index: 4
+  date: Jan 17
+  description: "Shellcode and Buffer overflow attacks"
   readings:
   - title: x86 Assembly Guide
     ref: R3
     url: "http://www.cs.virginia.edu/~evans/cs216/guides/x86.html"
     absolute: "yes"
     optional: "no"
-
-- title: Control-flow Hijacking attacks
-  index: 4
-  date: Jan 17
-  #filename: Untitled
-  description: "Shellcode and Buffer overflow attacks"
-  readings:
   - title: Smashing The Stack For Fun And Profit
     ref: R4
     url: "/reading/stack_smashing.pdf"

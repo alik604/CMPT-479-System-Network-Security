@@ -50,6 +50,18 @@ This page contains link to the lectures I give throughout the semester.
     [slides]
     </a>
     {% endif %} 
+    
+    {% for slide in lecture.slides %}
+    <div>
+    {{ slide.title }}
+    {% if slide.filename %}
+    <a href="{{ site.url }}/{{ site.baseurl }}/lectures/{{ slide.filename }}.pdf">
+    [slides]
+    </a>
+    {% endif %}
+    </div> 
+    {% endfor %}
+    
     </span>
 </td>
 
