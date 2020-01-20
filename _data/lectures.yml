@@ -57,23 +57,30 @@
   - title: Summarize [R5]
   - title: Sign online Ethics <a href="https://forms.gle/XzRogNnLaZLf6GEm7" target="_blank">form</a>
 
-- title: Canaries and ASLR
+- title: Control-flow Hijacking attacks
   index: 5
   date: Jan 22
+  #filename: Untitled
+  description: ""
+  
+  # deadlines:
+
+- title: Canaries and ASLR
+  index: 5
+  date: Jan 24
   #filename: Untitled
   description: ""
   readings:
   - title: "StackGuard: Automatic Adaptive Detection and Prevention of Buffer-Overflow Attacks"
     url: "/reading/stackguard.pdf"
     ref: R6
-  # deadlines:
-
-
+  deadlines:
+  - title: Summarize [R6]
 
 - title: Return-oriented Programming
   #filename: Untitled
   index: 6
-  date: Jan 24
+  date: Jan 29
   description: ""
   readings:
   - title: The Geometry of Innocent Flesh on the Bone
@@ -84,9 +91,12 @@
 
 - title: Control Flow Integrity
   index: 7
-  date: Jan 29
+  date: Jan 31
   #filename: Untitled
   description: ""
+  deadlines:
+  #- title: Quiz 1
+  - title: Team formation and initial project proposals, refer to [R2]
 
 #  readings:
 #  - title: ""
@@ -96,14 +106,12 @@
 #  - title: ""
 
 
-- title: OS security
+#- title: OS security
   #filename: Untitled
-  index: 8
-  date: Jan 31
-  description: "Principle of least privilege, beyond buffer overflows, Set-UUID attack, Shellshock attack"
-  deadlines:
-  #- title: Quiz 1
-  - title: Team formation and initial project proposals, refer to [R2]
+#  index: 8
+#  date: Jan 31
+#  description: "Principle of least privilege, beyond buffer overflows, Set-UUID attack, Shellshock attack"
+  
 
 
 #- title: OS security
