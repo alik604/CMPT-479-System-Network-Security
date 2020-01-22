@@ -35,7 +35,7 @@
   - title: "Shellcode"
     filename: lec03_shellcode
   - title: Control-flow Hijacking attacks
-    #filename: ""
+    filename: lec04_control_flow_hijacking
   index: 4
   date: Jan 17
   description: "Shellcode and Buffer overflow attacks"
@@ -60,12 +60,18 @@
 - title: Control-flow Hijacking attacks
   index: 5
   date: Jan 22
-  #filename: Untitled
+  filename: lec04_control_flow_hijacking
   description: ""
   
   # deadlines:
 
-- title: Canaries and ASLR
+
+- slides:
+  - title: "Format String Vulnerability"
+    #filename:
+
+  - title: Canaries and ASLR
+    #filename:
   index: 5
   date: Jan 24
   #filename: Untitled
