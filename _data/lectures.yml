@@ -67,11 +67,11 @@
 
 
 - slides:
-  - title: "Format String Vulnerability"
-    #filename:
+  - title: "Project Details"
+    filename: lec05_project_ideas
 
-  - title: Canaries and ASLR
-    #filename:
+  - title: "Format String Vulnerability"
+    filename: lec05_format_string_vuln
   index: 5
   date: Jan 24
   #filename: Untitled
@@ -83,10 +83,21 @@
   deadlines:
   - title: Summarize [R6]
 
-- title: Return-oriented Programming
+- title: Canaries and ASLR
   #filename: Untitled
   index: 6
   date: Jan 29
+  description: ""
+
+
+
+- slides:
+  - title: Return-oriented Programming
+  #filename:
+  - title: Control Flow Integrity
+  #filename: Untitled
+  index: 7
+  date: Jan 31
   description: ""
   readings:
   - title: The Geometry of Innocent Flesh on the Bone
@@ -94,14 +105,6 @@
     ref: R7
   deadlines:
   - title: Summarize [R7]
-
-- title: Control Flow Integrity
-  index: 7
-  date: Jan 31
-  #filename: Untitled
-  description: ""
-  deadlines:
-  #- title: Quiz 1
   - title: Team formation and initial project proposals, refer to [R2]
 
 #  readings:
