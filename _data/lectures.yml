@@ -84,7 +84,7 @@
   - title: Summarize [R6]
 
 - title: Canaries and ASLR
-  #filename: Untitled
+  filename: lec06_buf_overflow_defenses
   index: 6
   date: Jan 29
   description: ""
@@ -94,7 +94,7 @@
 - slides:
   - title: Return-oriented Programming
   #filename:
-  - title: Control Flow Integrity
+  #- title: Control Flow Integrity
   #filename: Untitled
   index: 7
   date: Jan 31
