@@ -93,7 +93,7 @@
 
 - slides:
   - title: Return-oriented Programming
-  #filename:
+    filename: "lec07_rop"
   #- title: Control Flow Integrity
   #filename: Untitled
   index: 7
@@ -122,12 +122,25 @@
 #  description: "Principle of least privilege, beyond buffer overflows, Set-UUID attack, Shellshock attack"
   
 
+- title: OS Security
+  #filename: Untitled
+  index: 9
+  date: Feb 5
+  description: ""
+  deadlines:
+  - title: A1 deadline is tomorrow @11:59pm
 
-#- title: OS security
-#  #filename: Untitled
-#  index: 9
-#  date: Jan 31
-#  description: "Shellshock attack"
+- title: OS Attacks
+  #filename: Untitled
+  index: 10
+  date: Feb 7
+  readings:
+  - title: Setuid Demystified
+    url: "/reading/setuid.pdf"
+    ref: R8
+  description: ""
+  deadlines:
+  - title: Summarize [R8]
 
 
 #- title: Isolation and Sandboxing
@@ -145,36 +158,25 @@
 #  description: "Fuzzing and static and dynamic analysis"
 
 
-- title: Network Security
-  merge: "yes"
-
-- title: Internet Overview
+- title: OS Attacks
   #filename: Untitled
   index: 9
-  date: Feb 5
-  description: ""
-  deadlines:
-  - title: A1 deadline is tomorrow @11:59pm
-
-- title: TCP/IP attacks
-  #filename: Untitled
-  index: 10
-  date: Feb 7
-  description: "Packet Sniffing and Spoofing,TCP/IP Attacks"
-
-- title: DoS attacks
-  #filename: Untitled
-  index: 11
   date: Feb 12
   description: ""
   deadlines:
-    - title: Project proposal deadline (check [R2])
+  - title: Quiz 1 at 9:50am
+  - title: Project proposal deadline (check [R2])
 
-- title: DDoS attacks
+
+- title: Network Security
+  merge: "yes"
+
+- title: Network Refresher
   #filename: Untitled
-  index: 12
+  index: 9
   date: Feb 14
   description: ""
+
 
 - title: Reading Break
   index: 10
@@ -182,92 +184,108 @@
   merge: "yes"
 
 
+- title: Packet Sniffing and Spoofing
+  #filename: Untitled
+  index: 10
+  date: Feb 26
+  description: "Packet Sniffing and Spoofing"
+
+- title: TCP/IP attacks
+  #filename: Untitled
+  index: 11
+  date: Feb 28
+  description: ""
+
+- title: DoS and DDoS attacks
+  #filename: Untitled
+  index: 12
+  date: Mar 4
+  description: ""
+
 - title: Local DNS attacks
   #filename: Untitled
   index: 13
-  date: Feb 26
+  date: Mar 6
   description: ""
 
 
 - title: Remote DNS attacks
   #filename: Untitled
   index: 14
-  date: Feb 28
+  date: Mar 11
   description: ""
   deadlines:
-    - title: A2 deadline @11:59pm
+    - title: Quiz 2
 
 
 - title: "Internet routing: BGP"
   #filename: Untitled
   index: 15
-  date: Mar 4
+  date: Mar 13
   description: ""
+  deadlines:
+    - title: A2 deadline
 
 - title: BGP attacks
   #filename: Untitled
   index: 16
-  date: Mar 6
+  date: Mar 18
   description: ""
   #deadlines:
   #  - title: Quiz 2
 
-- title: SDN overview
-  #filename: Untitled
-  index: 17
-  date: Mar 11
-  description: ""
-
-- title: SDN attacks
-  #filename: Untitled
-  index: 18
-  date: Mar 13
-  description: ""
-
-- title: Side-channel attacks
-  #filename: Untitled
-  index: 19
-  date: Mar 18
-  description: ""
-  deadlines:
-    - title: A3 deadline @11:59pm
-
 - title: Project milestone presentation
-  #filename: Untitled
   index: 20
   date: Mar 20
   description: "You will have the chance to present your project milestone."
   deadlines:
     - title: Project milestone presentation
 
+- title: SDN overview
+  #filename: Untitled
+  index: 17
+  date: Mar 25
+  description: ""
+
+- title: SDN attacks
+  #filename: Untitled
+  index: 18
+  date: Mar 27
+  description: ""
+
+
 - title: Firewalls and IDS
   #filename: Untitled
   index: 21
-  date: Mar 25
+  date: Apr 1
   description: ""
+  deadlines:
+    - title: A3 deadline
 
 - title: Virtual Private Networks
   #filename: Untitled
   index: 22
-  date: Mar 27
-  description: ""
-
-- title: Hardware Security
-  merge: "yes"
-
-- title: TBD
-  #filename: Untitled
-  index: 23
-  date: Apr 1
-  description: ""
-
-- title: TBD
-  #filename: Untitled
-  index: 24
   date: Apr 3
   description: ""
-  #deadlines:
-  #- title: Quiz 3
+  deadlines:
+    - title: Quiz 3
+
+#- title: Hardware Security
+#  merge: "yes"
+#
+#- title: TBD
+#  #filename: Untitled
+#  index: 23
+#  date: Apr 1
+#  description: ""
+#
+#- title: TBD
+#  #filename: Untitled
+#  index: 24
+#  date: Apr 3
+#  description: ""
+#  #deadlines:
+#  #- title: Quiz 3
 
 - title: "<i>Project demo day!</i>"
   date: Apr 8, 11AM – 3PM, TASC1 9204 (East)
