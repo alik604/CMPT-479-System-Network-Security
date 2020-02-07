@@ -123,14 +123,14 @@
   
 
 - title: OS Security
-  #filename: Untitled
+  filename: lec08_os_sec
   index: 9
   date: Feb 5
   description: ""
   deadlines:
   - title: A1 deadline is tomorrow @11:59pm
 
-- title: OS Attacks
+- title: Shellshock and Dirty COW
   #filename: Untitled
   index: 10
   date: Feb 7
