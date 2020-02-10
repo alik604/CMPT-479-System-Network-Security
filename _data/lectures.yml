@@ -131,7 +131,7 @@
   - title: A1 deadline is tomorrow @11:59pm
 
 - title: Shellshock and Dirty COW
-  #filename: Untitled
+  filename: lec09_shellshock_dirtyCOW
   index: 10
   date: Feb 7
   readings:
@@ -165,7 +165,7 @@
   description: ""
   deadlines:
   - title: Quiz 1 at 9:50am
-  - title: Project proposal deadline (check [R2])
+  #- title: Project proposal deadline (check [R2])
 
 
 - title: Network Security
@@ -176,6 +176,8 @@
   index: 9
   date: Feb 14
   description: ""
+  deadlines:
+  - title: Project proposal deadline (check [R2])
 
 
 - title: Reading Break
