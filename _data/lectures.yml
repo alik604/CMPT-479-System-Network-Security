@@ -190,18 +190,33 @@
   filename: lec12_network_analysis
   index: 10
   date: Feb 26
+  readings:
+  - title: Practical Packet Analysis, 3rd Ed. (Ch. 3, 4, 7, 12)
+    ref: R9
+    url: "https://learning.oreilly.com/library/view/practical-packet-analysis/9781492020356/?ar"
+    absolute: "yes"
+    note: (available for SFU students)
   description: "Packet Sniffing and Spoofing"
 
-- title: TCP/IP attacks
+- title: Network Analysis
   #filename: Untitled
   index: 11
   date: Feb 28
-  description: ""
+  readings:
+  - title: "<b>[R9]</b>"
+    ref:
+  description: "Packet Sniffing and Spoofing"
 
-- title: DoS and DDoS attacks
+- title: "TCP/IP attacks"
   #filename: Untitled
   index: 12
   date: Mar 4
+  readings:
+  - title: "Security Problems in the TCP/IP Protocol Suite"
+    url: "/reading/tcp_attacks.pdf"
+    ref: R12
+  deadlines:
+  - title: Summarize [R12]
   description: ""
 
 - title: Local DNS attacks
