@@ -18,9 +18,11 @@ permalink: /assignments/
 
 
 <li> 
-<strong>Assignment 2</strong>
-<div>Title: Packet sniffing and spoofing</div>
-<div>Details: TBA</div>
+<strong>Assignment 2</strong>, due date: Mar. 17th at 11:59pm.
+<div>Title: Network Analysis</div>
+<div>The goal of the assignment is to: (a) implement a network discovery tool, and 
+(b) analyze network traffic of a real-life scenario.
+</div> <a href="{{ site.url }}/{{ site.baseurl }}/assignments/Assignment2.pdf">Details</a>
 </li>
 
 <li> 
