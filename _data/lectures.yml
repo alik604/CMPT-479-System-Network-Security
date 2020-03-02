@@ -232,7 +232,7 @@
   date: Mar 11
   description: ""
   deadlines:
-    - title: Quiz 2
+    - title: Quiz 2 at 9:50am
 
 
 - title: "Internet routing: BGP"
@@ -241,7 +241,7 @@
   date: Mar 13
   description: ""
   deadlines:
-    - title: A2 deadline
+    - title: A2 deadline is next Tuesday
 
 - title: BGP attacks
   #filename: Untitled
