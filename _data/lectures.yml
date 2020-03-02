@@ -199,7 +199,7 @@
   description: "Packet Sniffing and Spoofing"
 
 - title: Network Analysis
-  #filename: Untitled
+  filename: lec13_network_analysis_part_2
   index: 11
   date: Feb 28
   readings:
