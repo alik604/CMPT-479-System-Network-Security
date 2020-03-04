@@ -77,10 +77,10 @@ This page contains link to the lectures I give throughout the semester.
     {% else %} 
     {{ reading.title }}
     {% endif %}
-    {% if reading.optional == "yes" %} 
-    <i> (Optional) </i> {% endif %} 
     {% if reading.note %} 
     <i> {{ reading.note }} </i> {% endif %} 
+    {% if reading.optional == "yes" %} 
+    <i> (Optional) </i> {% endif %}
     </div>
 {% endfor %}
 </td>

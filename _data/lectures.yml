@@ -215,6 +215,11 @@
   - title: "Security Problems in the TCP/IP Protocol Suite"
     url: "/reading/tcp_attacks.pdf"
     ref: R12
+  - title: "Computer & Internet Security: A Hands-on Approach"
+    #url: ""
+    note: . Ch. 16, Available at library
+    optional: "yes"
+    ref: R13
   deadlines:
   - title: Summarize [R12]
   description: ""
@@ -231,8 +236,7 @@
   index: 14
   date: Mar 11
   description: ""
-  deadlines:
-    - title: Quiz 2 at 9:50am
+
 
 
 - title: "Internet routing: BGP"
@@ -241,6 +245,7 @@
   date: Mar 13
   description: ""
   deadlines:
+    - title: Quiz 2 at 10:00am
     - title: A2 deadline is next Tuesday
 
 - title: BGP attacks
