@@ -208,7 +208,7 @@
   description: "Packet Sniffing and Spoofing"
 
 - title: "TCP/IP attacks"
-  #filename: Untitled
+  filename: lec14_TCPIP_attacks
   index: 12
   date: Mar 4
   readings:
@@ -224,19 +224,18 @@
   - title: Summarize [R12]
   description: ""
 
-- title: Local DNS attacks
+- title: "TCP/IP attacks"
   #filename: Untitled
   index: 13
   date: Mar 6
   description: ""
 
 
-- title: Remote DNS attacks
+- title: DNS attacks
   #filename: Untitled
   index: 14
   date: Mar 11
   description: ""
-
 
 
 - title: "Internet routing: BGP"
