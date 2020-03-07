@@ -225,9 +225,12 @@
   description: ""
 
 - title: "TCP/IP attacks"
-  #filename: Untitled
+  filename: lec15_TCPIP_attacks_part_2
   index: 13
   date: Mar 6
+  readings:
+  - title: "<b>[R12]</b>"
+    ref:
   description: ""
 
 
