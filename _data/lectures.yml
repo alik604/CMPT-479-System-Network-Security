@@ -224,8 +224,11 @@
   - title: Summarize [R12]
   description: ""
 
-- title: "TCP/IP attacks"
-  filename: lec15_TCPIP_attacks_part_2
+- slides:
+  - title: "TCP/IP attacks"
+    filename: lec15_TCPIP_attacks_part_2
+  - title: "Notes on Project Milestone Presentation"
+    filename: lec15_ProjectMilestonePresentation
   index: 13
   date: Mar 6
   readings:
