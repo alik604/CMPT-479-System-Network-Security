@@ -48,8 +48,9 @@ This page contains link to the lectures I give throughout the semester.
     {% if lecture.filename %}
     <a href="{{ site.url }}/{{ site.baseurl }}/lectures/{{ lecture.filename }}.pdf">
     [slides]
-    </a>
-    {% endif %} 
+    </a> 
+    {% endif %}
+     
     
     {% for slide in lecture.slides %}
     <div>
@@ -61,6 +62,15 @@ This page contains link to the lectures I give throughout the semester.
     {% endif %}
     </div> 
     {% endfor %}
+    
+    {% if lecture.recordings %}
+    <br/>
+    {% for r in lecture.recordings %}
+    <a href="{{ site.url }}/{{ site.baseurl }}/recordings/{{ r.filename }}.m4a">
+    [audio]
+    </a>
+    {% endfor %}
+    {% endif %}
     
     </span>
 </td>

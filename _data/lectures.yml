@@ -238,7 +238,10 @@
 
 
 - title: DNS attacks
-  #filename: Untitled
+  filename: lec16_DNS_attacks
+  recordings:
+  - filename: lec16_DNS_attacks
+  #- filename: lec16_DNS_attacks1
   index: 14
   date: Mar 11
   description: ""
