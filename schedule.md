@@ -61,7 +61,12 @@ This page contains link to the lectures I give throughout the semester.
     </a>
     {% endif %}
     </div> 
-    {% endfor %}  
+    {% endfor %}
+    {% for r in lecture.recordings %}
+    <a href="{{ site.url }}/{{ site.baseurl }}/recordings/{{ r.filename }}.m4a">
+    [audio]
+    </a>
+    {% endfor %}
     </span>
 </td>
 
