@@ -232,8 +232,10 @@
   index: 13
   date: Mar 6
   readings:
-  - title: "<b>[R13]</b>"
-    ref:
+  - title: "Computer & Internet Security: A Hands-on Approach"
+    #url: ""
+    note: . Ch. 16, Available at library
+    ref: R13
   description: ""
 
 
@@ -241,14 +243,26 @@
   filename: lec16_DNS_attacks
   recordings:
   - filename: lec16_DNS_attacks
-  #- filename: lec16_DNS_attacks1
+  readings:
+  - title: "Computer & Internet Security: A Hands-on Approach"
+    #url: ""
+    note: . Ch. 18, Available at library
+    ref: R14
   index: 14
   date: Mar 11
   description: ""
 
 
-- title: "Internet routing: BGP"
-  #filename: Untitled
+- title: "DNS attacks"
+  filename: lec17_DNS_attacks_part_2
+  recordings:
+  - filename: lec17_DNS_attacks_part2_1
+  - filename: lec17_DNS_attacks_part2_2
+  readings:
+  - title: "Computer & Internet Security: A Hands-on Approach"
+    #url: ""
+    note: . Ch. 18, Available at library
+    ref: R14
   index: 15
   date: Mar 13
   description: ""
@@ -256,7 +270,24 @@
     - title: Quiz 2 at 10:00am
     - title: A2 deadline is next Tuesday
 
-- title: BGP attacks
+- title: Starting March 18th, the course is moving to online instruction.
+  index: 10
+  merge: "yes"
+
+- slides:
+  - title: "Moving to online instruction"
+    filename: lec18_online_class
+  - title: "Moving to online instruction - annotated"
+    filename: lec18_online_class_annotated
+  - title: "DNS attacks"
+    filename: lec17_DNS_attacks_part_2
+  recordings:
+  - filename: lec18_online_class
+  readings:
+  - title: "Computer & Internet Security: A Hands-on Approach"
+    #url: ""
+    note: . Ch. 18, Available at library
+    ref: R14
   #filename: Untitled
   index: 16
   date: Mar 18
@@ -271,34 +302,38 @@
   deadlines:
     - title: Project milestone presentation
 
-- title: SDN overview
+- title: Firewalls
   #filename: Untitled
   index: 17
   date: Mar 25
   description: ""
 
-- title: SDN attacks
+- title: Virtual Private Networks
   #filename: Untitled
   index: 18
   date: Mar 27
   description: ""
 
 
-- title: Firewalls and IDS
+- title: IDS
   #filename: Untitled
   index: 21
   date: Apr 1
   description: ""
-  deadlines:
-    - title: A3 deadline
 
-- title: Virtual Private Networks
+- title: IDS
   #filename: Untitled
   index: 22
   date: Apr 3
   description: ""
   deadlines:
-    - title: Quiz 3
+    - title: Blog Post
+
+- title: Review and Reflection
+  #filename: Untitled
+  index: 22
+  date: Apr 8
+  description: ""
 
 #- title: Hardware Security
 #  merge: "yes"
@@ -316,8 +351,4 @@
 #  description: ""
 #  #deadlines:
 #  #- title: Quiz 3
-
-- title: "<i>Project demo day!</i>"
-  date: Apr 8, 11AM – 3PM, TASC1 9204 (East)
-  merge: "yes"
 

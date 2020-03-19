@@ -4,6 +4,16 @@ title: Syllabus
 permalink: /syllabus/
 ---
  
+     
+     
+<div class="alert-notify">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+  <b>
+        The grading scheme is modified due to the move to online instruction.
+      </b>
+      <br/>
+      Mainly, writing a blog post is required.
+</div>
 
 <h2>
 Topics
@@ -61,8 +71,9 @@ Grading
 <ul>
 <li> Final Project (Group of 2–3): 35% </li>
 <li> Assignments (Individual): 30% (3 x 10%) </li>
-<li> Research Reading (Individual): 12% </li>
-<li> Quizzes: 18% (3 x 6%) </li>
+<li> Research Reading (Individual): 10% </li>
+<li> Quizzes: 12% (2 x 6%) </li>
+<li> Blog Post (Group of 2–3, or Individual): 8% </li>
 <li> Participation: 5%  </li>
 </ul>
 
@@ -95,7 +106,7 @@ For more details, check <a href="{{site.baseurl}}/project">project</a> and <a hr
 </h3>
 You are required to read all non-optional materials <span class="alert">before</span> the lecture. 
 <br/>
-In addition, you will be asked throughout the semester to <span class="alert">summarize at least six papers</span> out of all the materials you will read.
+In addition, you will be asked throughout the semester to <span class="alert">summarize at least five papers</span> out of all the materials you will read.
 <ul>
 <li>This is an individual activity.</li>
 <li>These papers will be mentioned in the "Events" column in the <a href="{{site.baseurl}}/schedule">schedule</a> page at least three days before the deadline.</li>
@@ -126,7 +137,12 @@ Quizzes missed because of absences <span class="alert">can not be made up</span>
 
 
 <h3>
-(d) Participation
+(d) Blog Post
+</h3>
+For more details, check <a href="{{site.baseurl}}/post">this</a> page.
+
+<h3>
+(e) Participation
 </h3>
 I expect students to take active and regular roles in discussion and demonstrate comprehension of the reading and lecture materials. 
 Participation will be closely monitored by the instructor. 
