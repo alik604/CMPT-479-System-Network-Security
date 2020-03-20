@@ -43,6 +43,8 @@ As a test, answer these questions:
 Make sure to first think about the answers by yourself, and then watch [this video](https://www.youtube.com/watch?v=3J7T1xxUn7M) and read this [blog post](http://www.sohamkamani.com/blog/2016/07/07/a-beginners-guide-to-sql/).
 
 I hope everyone can use the opportunity to train the skill of blog writing.
+
+Please check this [publication](https://medium.com/sfu-cspmp) for examples.
    
    
 ### 3. How to submit?
@@ -67,7 +69,7 @@ You have to submit your blog post in **two places**:
 
 We will grade your blog post based on its depth and recency.
 - [**Depth**] (50%). You need to show the depth to your audience. You can assume that your audience has some basic knowledge about systems and network security. For example, they could be your classmates in CMPT 479/980. Your blog post should have 20% basic things and 80% advanced things. It's OK for non-technical people to understand only part of the blog post.
-- [**Recent**] (50%). You need to write about a modern tool or a recent topic. Writing about old topics makes your post less attractive, and will not teach you and your audience new things. 
+- [**Recency**] (50%). You need to write about a modern tool or a recent topic. Writing about old topics makes your post less attractive, and will not teach you and your audience new things. 
 
 **Plagiarism**
 * Please check the **Academic Honesty and Conduct Policies** section in the <a href="{{site.baseurl}}/syllabus">Syllabus</a>. In summary, don't cheat!
