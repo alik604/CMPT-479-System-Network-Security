@@ -26,9 +26,11 @@ permalink: /assignments/
 </li>
 
 <li> 
-<strong>Assignment 3</strong>
+<strong>Assignment 3</strong>, due date: Apr. 9th at 11:59pm.
 <div>Title: TCP/IP attacks</div>
-<div>Details: TBA</div>
+<div>The goal of the assignment is to reproduce and launch: (a) TCP SYN flooding attack,
+(b) TCP RST attack, and (3) TCP session hijacking attack.
+</div> <a href="{{ site.url }}/{{ site.baseurl }}/assignments/Assignment3.pdf">Details</a>
 </li>
 
 </ul>

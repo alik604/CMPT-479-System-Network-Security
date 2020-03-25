@@ -327,13 +327,15 @@
   date: Apr 3
   description: ""
   deadlines:
-    - title: Blog Post
+    - title: Blog Post is due today
 
 - title: Review and Reflection
   #filename: Untitled
   index: 22
   date: Apr 8
   description: ""
+  deadlines:
+    - title: A3 deadline is tomorrow
 
 #- title: Hardware Security
 #  merge: "yes"
