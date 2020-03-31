@@ -90,6 +90,50 @@ Your presentation should consist of these elements:
 *Submit your presentation to CourSys (activity is ProjectMilestone) by March 20th at 8:00am.*
 
 
-### Final Submission
+### Final Submission (Code, Report and Video)
 
-Soon.
+#### (a) Code
+You must push your project code to a Git repository. 
+[SFU CS Instructional Gitlab](https://csil-git1.cs.surrey.sfu.ca/) is a good option to host your code. 
+You are encouraged to open-source your project on github or a similar service as well.
+In your repository, please include a README.md file detailing how we can reproduce and run your project.
+It is highly recommended that you provide VM image(s) that are configured with all required dependencies and software packages. 
+We will follow the instructions in the README.md file, and we **will not** attempt to fix or modify any code, configuration, etc. 
+
+
+Notes:
+
+   * It is *recommended* that group members commit their own contributions to the repository. 
+   * We may ask you to run your demo/code if we fail to do so.
+   * If you created some kind of web frontend, please include a URL in the README.md as well.
+    
+#### (b) Report
+
+You need to submit a report in a PDF format to give details of your project.
+The report should have at least 2500 words with the following structure:
+
+* Project Title: Come up with an attractive title.
+* Abstract  < 150 words. What is this project about?
+* Introduction: Motivation, brief overview of your work, and summary of main results.
+* Background and Related Work: Any needed background for the reader to understand your project, and cite and describe related technical papers published in journals or reputable conferences.
+* Problem Statement: What questions do you want to answer? Why are they challenging?
+* Methodology: What tools or analysis methods did you use? Why did you choose them? How did you apply them to tackling each problem?
+* Attack/Defense/System/Algorithm/Idea. Always use a top-down approach in writing: describe the main idea first. Then provide details.
+* Evaluation and Experimentation. Describe the implementation, experimental setup and data collection, and present AND analyze the results. Draw lessons and insights on the results.
+* Lessons Learnt: What did you learn from this project?
+* Conclusion: A high-level summary of your project. It should be self-contained and cover all the important aspects of your project.
+
+
+#### (c) Video
+
+Create a video that demonstrates your project. Here are some requirements:
+
+* The video length should be no more than 4 mins.
+* The video should be narrated.
+* Describe your project in a high level.
+* Explain why this is an important project.
+* Show a working demo of your project.
+* Need to show the conclusion of your project.
+* Put your contact information (i.e., Name and SFU email) at the end of the video.
+
+You need to upload the video to YouTube, and include the video URL in the final report.

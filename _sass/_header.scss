@@ -70,7 +70,7 @@
 
 .site-nav a {
 	display: block;
-        color: #ffffff;
+    color: #ffffff;
 }
 
 /* Sub Menu */
@@ -78,11 +78,13 @@
 .site-nav .sub-menu a {
 	display: block;
 	font-weight: normal;
+    font-size: large;
 	height: auto;
+    text-transform: capitalize;
 	letter-spacing: 0;
-	line-height: 1.2em;
-	padding: 4px 10px;
-color: #522d80;
+	line-height: 1.5em;
+	padding: 8px 8px;
+    color: #522d80;
 
 }
 
@@ -99,7 +101,7 @@ color: #522d80;
 .site-nav .sub-menu li.current-menu-item > a {
 	border-left-color: $clemson-purple;
 	border-right-color: $clemson-purple;
-	border-right: 0px;
+	border-right: 10px;
 
 }
 
@@ -129,7 +131,7 @@ z-index:999;
 	border-bottom: 0;
 	display: block;
 	height: auto;
-	margin: 3px 0;
+	margin: 8px 0;
 	padding: 0;
 	text-align: left;
 }
