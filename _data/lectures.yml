@@ -302,35 +302,47 @@
   deadlines:
     - title: Project milestone presentation
 
-- title: Firewalls
-  #filename: Untitled
+- slides:
+  - title: Firewalls
+    filename: lec19_firewalls
+  - title: "Firewalls - annotated"
+    filename: lec19_firewalls_annotated
   index: 17
   date: Mar 25
   description: ""
 
-- title: Virtual Private Networks
-  #filename: Untitled
+- slides:
+  - title: Firewalls
+    filename: lec19_firewalls
+  - title: "Firewalls - annotated"
+    filename: lec19_firewalls_annotated
   index: 18
   date: Mar 27
   description: ""
 
 
-- title: IDS
-  #filename: Untitled
+- slides:
+  - title: Firewalls
+    filename: lec19_firewalls
+  - title: "Firewalls - annotated"
+    filename: lec19_firewalls_annotated
   index: 21
   date: Apr 1
   description: ""
 
-- title: IDS
-  #filename: Untitled
+- slides:
+  - title: Virtual Private Networks
+    filename: lec20_VPNs
+  - title: "Virtual Private Networks - annotated"
+    filename: lec20_VPNs_annotated
   index: 22
   date: Apr 3
   description: ""
   deadlines:
     - title: Blog Post is due today
 
-- title: Review and Reflection
-  #filename: Untitled
+- title: Review
+  filename: lec21_review
   index: 22
   date: Apr 8
   description: ""
