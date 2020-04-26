@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Showcase
-permalink: /project/showcase
+permalink: project/showcase
 ---
 
 
